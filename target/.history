@@ -1,0 +1,20 @@
+clean
+package
+exit
+clean
+package
+exit
+clean
+package
+show discoveredMainClasses
+clean
+sbt && clean && package
+sbt  clean  package
+sbt
+sbt && clean && package
+sbt
+clean
+package
+sbt
+clean
+package
